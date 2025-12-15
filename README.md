@@ -4,8 +4,6 @@ It is created for learning and practice purpose.
 
 Topics covered
 
-- Modules
-- Pip
 - Variables and Data Types
 - Strings
 - Comments
