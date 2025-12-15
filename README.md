@@ -4,7 +4,7 @@ It is created for learning and practice purpose.
 
 Topics covered
 
-- Variables and Data Types
+- Variables
 - Strings
 - Conditional Statments 
 - Lists
