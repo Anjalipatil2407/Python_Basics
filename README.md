@@ -6,7 +6,7 @@ Topics covered
 
 - Variables and Data Types
 - Strings
-- Comments
+- Conditional Statments 
 - Lists
 - Tuples
 - Dictionaries
